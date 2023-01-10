@@ -1,4 +1,4 @@
-# ezekia-technical-assessment
+# Museum-technical-test
 
 ## Project setup
 ```
